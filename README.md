@@ -15,7 +15,7 @@
 ***
 ## 1. Tema
 
-Instagram, Snapchat, Twitter, Facebook, Twitch, Linkedin, etc. As redes sociais invadiram nossas vidas. Nós as amamos ou odiamos, e muitas pessoas não conseguemviver sem elas.
+Instagram, Snapchat, Twitter, Facebook, Twitch, Linkedin, etc. As redes sociais invadiram nossas vidas. Nós as amamos ou odiamos, e muitas pessoas não conseguem viver sem elas.
 Há redes sociais de todo tipo para todos os tipos de interesse. E para escolher o tema que iriamos trabalhar, enviamos um formulário a usuários de rede sociais, para compreender quais eram suas necessidades e identificar quem seria nosso público alvo e que tipo de rede social o nosso usuário gostaria que fosse criada.
 
 Através dessa pesquisa criamos 2 photo personas:
