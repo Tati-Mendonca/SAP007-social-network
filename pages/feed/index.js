@@ -113,7 +113,7 @@ export default () => {
             <p post-id="${id}" class="messageContent">Mensagem: ${postMessage}</p>
             <p post-id="${id}" class="date">Data: ${date.toLocaleString('pt-BR')} </p>
           <button post-id="${id}" class="likePost${likedClass}">
-            <span post-id="${id}" class="count">${listaLikes.length}</span>Curtir
+            <span post-id="${id}" class="count">${listaLikes.length}</span> Curtir
           </button>
         </div>
       </li>`;
