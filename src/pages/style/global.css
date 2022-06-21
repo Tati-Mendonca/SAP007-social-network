@@ -4,6 +4,7 @@
 
 .text-center {
     text-align: center;
+    margin: 1.5%;
 }
 
 body,
@@ -71,6 +72,10 @@ body>footer {
 
 .container {
     margin-bottom: 2em;
+}
+
+.footer {
+    margin-top: auto;
 }
 
 @media screen and (min-width:2000px) {
