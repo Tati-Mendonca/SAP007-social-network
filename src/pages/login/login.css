@@ -1,18 +1,19 @@
 .login-container {
     display: flex;
-    height: 94vh;
-    width: 100%;
+    height: 96vh;
+    width: 100vw;
     margin: 0;
     background: url('../style/loginfriend.jpg');
     background-size: cover;
     background-position: center;
+    align-items: center;
 }
 
 .main {
     background-color: rgb(255, 252, 252);
     margin-left: auto;
     box-shadow: 0px 0px 10px #9830ba, 0px 0px 20px #5e18e0, 0px 0px 30px #786092;
-    padding: 20px;
+    padding: 1.5%;
     width: 40vw;
     margin-right: 10%;
     margin-top: 1.5%;
@@ -20,12 +21,13 @@
     margin-bottom: 1.5%;
 }
 
-.login-container .logo-container {
+.logo-container {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     margin: auto;
+    align-content: center;
 }
 
 .button {
@@ -42,6 +44,8 @@
 }
 
 .bt-register {
+    margin-top: 7%;
+
     text-decoration: underline;
     color: #5e18e0;
     cursor: pointer;
@@ -68,10 +72,16 @@
     flex-direction: column;
 }
 
+.form{
+    margin-top: -20px;
+}
+.form input{
+    margin-top: 1.5%;
+}
+
 .login-container .logo-container img.logo {
     width: 100%;
     margin-bottom: 15%;
-    margin-top: 5%;
 }
 
 .control {
@@ -90,15 +100,37 @@
     font-size: 1.3em;
 }
 
-@media screen and (min-width:2000px) {
 
-    .login-container .form {
-        font-size: 2em;
+@media screen and (max-width:1268px) {
+
+ .main{
+    margin: 0;
+ }
+
+ .login-container{
+    background-position: 35% 100%
+ }
+
+ .login-container .music-container{
+    width: 50%
+ }
+  
+}
+
+@media screen and (max-width:768px) {
+    .login-container {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-content: center;
+        background-position: right;
     }
-
-    .register {
-        font-size: 2em;
-        margin-top: 10%;
+    .music-container{
+        display: none;
+    }
+    .main{
+        padding: 4%;
+        margin: 0;
     }
 }
 
@@ -106,10 +138,30 @@
 
     .login-container {
         flex-direction: column;
+        justify-content: center;
+        flex-wrap: wrap;
+        align-content: center;
     }
 
     .main {
         width: 70vw;
-        margin-bottom: 5%;
+        /* margin-bottom: 5%; */
+        padding: 5%;
+        margin-right: 0;
+    }
+
+    .music-container{
+        display: none;
+    }
+
+    .register{
+        font-size: 1em;
+    }
+
+    .footer{
+        font-size: 1em;
+        display: flex;
+        flex-wrap: wrap;
+        padding: 0 1.5%;
     }
 }
