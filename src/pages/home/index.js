@@ -6,7 +6,7 @@ export default () => {
   <div class="img-container photo">
   </div>
   <div class="logo-container">
-    <img class="logo" src="/pages/style/logo.png">
+    <img class="logo" src="./pages/style/logo.png">
     <h2 class="text">Faça amigos e compartilhe interesses musicais</h2>
     <button class="button-home" id="button">Entrar</button>
   </div>
