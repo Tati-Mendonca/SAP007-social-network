@@ -58,7 +58,7 @@ export default () => {
     </div>
     <div class = "main">
       <div class="logo-container">
-      <img class="logo" src="/pages/style/logo.png">
+      <img class="logo" src="./pages/style/logo.png">
       </div>
         <div class="form">
         <div class="error" id="email-required-error">Email é obrigatório.</div>
