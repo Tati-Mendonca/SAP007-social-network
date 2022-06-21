@@ -42,7 +42,6 @@ window.addEventListener('load', () => {
   init();
 });
 
-// DESLOGAR O USUARIO
 export function logout() {
   auth.signOut().then(() => {
     window.location.hash = '';
