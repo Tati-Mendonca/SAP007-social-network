@@ -32,7 +32,7 @@ Você pode acessar a aplicação utilizando o usuário de teste abaixo ou criand
 Instagram, Snapchat, Twitter, Facebook, Twitch, Linkedin, etc. As redes sociais invadiram nossas vidas. Nós as amamos ou odiamos, e muitas pessoas não conseguem viver sem elas.
 Há redes sociais de todo tipo para todos os tipos de interesse. E para escolher o tema que iriamos trabalhar, enviamos um formulário a usuários de rede sociais, para compreender quais eram suas necessidades e identificar quem seria nosso público alvo e que tipo de rede social o nosso usuário gostaria que fosse criada.
 
-Através dessa pesquisa criamos 2 photo personas:
+Através dessa pesquisa criamos 2 proto personas:
 
 <div display: inline>
 <img src= "https://user-images.githubusercontent.com/97405991/167228446-ecb50b27-5b2c-44cb-8dac-bf1e66d02feb.png" width=400> <img src= "https://user-images.githubusercontent.com/97405991/167228607-d8cff0c4-9c18-4e44-a1dd-79d98743a9ec.png" width=400>
